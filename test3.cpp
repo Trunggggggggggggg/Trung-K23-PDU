@@ -6,7 +6,7 @@ struct SinhVien {
     float toan;
     float ly;
     float hoa;
-    float dtb; // di?m trung bình
+    float dtb; 
 };
 
 int main() {
